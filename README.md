@@ -4,8 +4,8 @@
 **BrutishGuy/BrutishGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a personal project where I am building an extension to the hyperopt-sklearn Python package to include another robust model, Catboost as well as some neural network architectures.
-- 🌱 I’m currently learning how to work with Google Cloud Platform to build end-to-end machine learning models to interact with data stored in Cloud SQL via BigQuery and to achieve an Automated Machine Learning solution via AutoML Tables and Contextual Multi-Armed Bandits for the purposes of automated search engine optimization (SEO) strategies
+- 🔭 I’m currently working on a personal project to build an IDE for amateur programmers with an LLM teacher to help explain concepts and issues (no coding capabilities). The goal of my beginner IDE is to help people learn software principles and coding without dry textbooks, needing an access to a teacher, and to streamline learning in a way that LLMs now enable.
+- 🌱 I’m currently working at Living Homes, building the future of smart homes with multi-agent solutions. I'm working on the AI backend, building out features in our microservices that enable our conversational agents to run commands and automations against the user's smart home, to analyze their sleep, and to perform proactive adjustments to the user's home environment to optimize their experience at home. 
 - 👯 I’m looking to collaborate on interesting projects on anything ranging from optimization, deep neural architectures and Kaggle competitions!
 - 💬 Ask me about hyperparameter and bayesian optimization, architecture search, computer vision, and anything data science related.
 - 📫 How to reach me: Find me on LinkedIn!
